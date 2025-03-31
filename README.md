@@ -38,7 +38,7 @@ import pathlib
 from torchvision import datasets, transforms
 from torch.utils.data import DataLoader, random_split
 
-dataset_path = pathlib.Path("C:/Users/PC/Downloads/mri-ct/Dataset")
+dataset_path = pathlib.Path("/Path/to/your_dataset")
 
 transform = transforms.Compose([
     transforms.Resize((256, 256)),
