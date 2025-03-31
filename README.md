@@ -159,7 +159,7 @@ python evaluate.py
 - Extending the dataset for better generalization
 
 ## Contributors
-- **Godfrey Otieno** - Developer
+- **Sofia Lentikaa** - Developer
 
 ## License
 This project is licensed under the MIT License.
