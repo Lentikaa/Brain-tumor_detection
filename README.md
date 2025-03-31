@@ -10,7 +10,9 @@ This project implements a Convolutional Neural Network (CNN) for brain tumor det
 The dataset consists of MRI and CT scan images organized into labeled folders. Images are preprocessed and transformed before training the model.
 
 ### Sample Dataset Images
-(Add sample images here)
+
+![image](https://github.com/user-attachments/assets/bd412a43-1099-4e7d-bfc0-49a7f11372e3)
+
 
 ## Installation
 Ensure you have Python installed and the following dependencies:
@@ -44,9 +46,6 @@ transform = transforms.Compose([
 ])
 
 dataset = datasets.ImageFolder(root=str(dataset_path), transform=transform)
-
-
-![image](https://github.com/user-attachments/assets/d99231fb-90ad-43b8-9307-c8d84668a6ce)
 
 ```
 
