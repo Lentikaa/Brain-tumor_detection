@@ -161,7 +161,5 @@ python evaluate.py
 ## Contributors
 - **Sofia Lentikaa** - Developer
 
-## License
-This project is licensed under the MIT License.
 
 
